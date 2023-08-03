@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lottwriter/meet/static/css/main.073c9b0a.css",
+    "main.js": "/lottwriter/meet/static/js/main.d4f6b102.js",
+    "static/js/787.4b564826.chunk.js": "/lottwriter/meet/static/js/787.4b564826.chunk.js",
+    "service-worker.js": "/lottwriter/meet/service-worker.js",
+    "static/media/logo.svg": "/lottwriter/meet/static/media/logo.2d27ead7c10f774c5306bcf3c257a728.svg",
+    "index.html": "/lottwriter/meet/index.html",
+    "main.073c9b0a.css.map": "/lottwriter/meet/static/css/main.073c9b0a.css.map",
+    "main.d4f6b102.js.map": "/lottwriter/meet/static/js/main.d4f6b102.js.map",
+    "787.4b564826.chunk.js.map": "/lottwriter/meet/static/js/787.4b564826.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d4f6b102.js"
+  ]
+}
