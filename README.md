@@ -14,3 +14,5 @@ As a user, I should be able to see a chart showing the upcoming events in each c
 that I know what events are organized in which city.
 
 This app will allow users to filter events, see number of events, and the details thereof in their city; it will also allow the user to change their city if they so desire. This app should also be accessible when offline.
+
+As a developer, I plan to use serverless development to enable me to easily deploy my app without having to worry about building a server for deployment. My app will also make using of the automated scaling that comes with serverless, increasing the responsiveness and cost efficiency of my app.
