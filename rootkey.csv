@@ -1,2 +1,5 @@
 ﻿Access key ID,Secret access key
 AKIA2PHIOXFPEADX5TWR,YS9FMzDdvd3b77tlDdmUTXWMRC/tbKHjNB/6tQts
+
+
+https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcalendar.events.public.readonly&response_type=code&client_id=283559811224-2g99bu5fdr5tbnf7hku3ps4jskskm781.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Flottwriter.github.io%2Fmeet%2F
